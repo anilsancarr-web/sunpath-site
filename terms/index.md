@@ -54,8 +54,11 @@ handle refunds. I never see your payment details.
   as your store reports them. Apple and Google convert and adjust prices per
   country and may change them; the app always shows the current one.
 - **A subscription renews automatically** for another period unless you cancel
-  at least 24 hours before the current period ends. The charge is taken within
-  the 24 hours before renewal.
+  first. On the **App Store**, Apple requires the cancellation to be at least
+  24 hours before the period ends, and takes the charge within the 24 hours
+  before renewal. **Google Play** applies no such cut-off — cancelling any time
+  before renewal prevents the charge. Cancel early either way rather than
+  relying on the deadline.
 - **Cancel** in your own store account settings — on iOS, Settings → your name →
   Subscriptions; on Android, Play Store → Subscriptions. Deleting the app does
   **not** cancel a subscription. There is a link to the right screen inside the
@@ -154,7 +157,28 @@ I may end it if the licence terms in section 1 are breached.
 
 ---
 
-## 9. Governing law
+## 9. Apple and Google
+
+These Terms are between you and me. **Apple and Google are not parties to them**
+and are not responsible for the app or its contents.
+
+- Neither Apple nor Google has any obligation to provide maintenance or support
+  for the app. Support comes from me, at the address below.
+- If the app fails to conform to any warranty that cannot be disclaimed, you may
+  notify Apple and Apple will refund the purchase price, if any. To the maximum
+  extent permitted by law, Apple has no other warranty obligation whatsoever.
+- I, not Apple or Google, am responsible for addressing any claim relating to
+  the app — including product liability, any failure to conform to a legal
+  requirement, and claims under consumer protection or privacy law.
+- I, not Apple or Google, am responsible for investigating and defending any
+  third-party claim that the app infringes intellectual property rights.
+- You confirm you are not located in a country subject to a US Government
+  embargo or designated as terrorist-supporting, and are not on any US
+  Government prohibited-party list.
+- **Apple and its subsidiaries are third-party beneficiaries of these Terms**,
+  and upon your acceptance Apple has the right to enforce them against you.
+
+## 10. Governing law
 
 These terms are governed by the laws of the Republic of Türkiye, and the courts
 of Türkiye have jurisdiction — without depriving you of the protection of the
@@ -164,7 +188,7 @@ Your purchase is also subject to the terms of the store you bought it from.
 
 ---
 
-## 10. Contact
+## 11. Contact
 
 **anilsancarr@gmail.com**
 
