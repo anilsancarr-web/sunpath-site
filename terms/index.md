@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use — Sun Path & Shadow
 
-**Last updated: 30 August 2026**
+**Last updated: 23 September 2026**
 
 These terms cover your use of the Sun Path & Shadow app. By installing or using
 the app you accept them. If you do not, please delete the app.
@@ -26,21 +26,21 @@ holiday — is exactly what it is for and needs no permission.
 
 ---
 
-## 2. What is free and what is paid
+## 2. What you pay for
 
-**Free, permanently:** the sun's bearing, its height above the horizon, and the
-length of a shadow, for the current day. These are not a trial and they do not
-expire.
+Everything in the app needs **Sun Path Planning**: the three readouts — the
+sun's bearing, its height above the horizon, and the length of a shadow — the
+timeline through the day, the sky view, the map, other dates and other places,
+saved places, and the golden-hour reminder. Without it, the app shows its plans
+after the short introduction.
 
-**Paid:** planning beyond today — any other date, any other place on earth, and
-saving places you check often.
+Three ways to pay:
 
-Two ways to pay:
-
+- a **yearly subscription**, which renews until you cancel;
 - a **monthly subscription**, which renews until you cancel;
 - a **one-time purchase**, which never renews and never needs cancelling.
 
-Both unlock exactly the same features. The difference is only how you pay.
+All three unlock exactly the same features. The difference is only how you pay.
 
 ---
 
@@ -74,9 +74,10 @@ handle refunds. I never see your payment details.
 
 ### Free trial
 
-The monthly subscription may be offered with a **free trial**. Where it is, the
-app shows the trial's length and the date the first charge falls due before you
-buy, and the exact terms are also shown on your store's own confirmation sheet.
+The yearly subscription may be offered with a **free trial** of one week, where
+your store offers it. Where it is, the app shows the trial's length and the date
+the first charge falls due before you buy, and the exact terms are also shown on
+your store's own confirmation sheet.
 
 - The trial is offered **once per subscription group per Apple Account or Google
   account**, family sharing included. If you have used it before, the app shows
@@ -143,7 +144,8 @@ or for fraud, where the law does not permit that limitation.
 The app changes as it is developed; features may be added, altered or removed.
 If these terms change, the date at the top changes with them and the current
 version always lives at this address. If a change materially reduces what a paid
-purchase gives you, it will be described in the release notes.
+purchase gives you, it will be described in the release notes — or, for an
+update delivered inside the app rather than through the store, on this page.
 
 ---
 

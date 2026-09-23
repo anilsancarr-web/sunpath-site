@@ -7,7 +7,7 @@ description: Where the sun will be and where the shadow will fall, for any place
 
 Where the sun will be and where the shadow will fall — for any place, at any
 hour. Bearing, height above the horizon and shadow length sit on the first
-screen. The maths runs on your phone, offline: no account, no server.
+screen. The maths runs on your phone, offline, and needs no account.
 
 <a href="https://apps.apple.com/app/id6806746653" aria-label="Download Sun Path & Shadow Tracker on the App Store"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" width="180" height="60"></a>
 
