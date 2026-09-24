@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use — Sun Path & Shadow
 
-**Last updated: 23 September 2026**
+**Last updated: 24 September 2026**
 
 These terms cover your use of the Sun Path & Shadow app. By installing or using
 the app you accept them. If you do not, please delete the app.
@@ -28,19 +28,21 @@ holiday — is exactly what it is for and needs no permission.
 
 ## 2. What you pay for
 
-Everything in the app needs **Sun Path Planning**: the three readouts — the
-sun's bearing, its height above the horizon, and the length of a shadow — the
-timeline through the day, the sky view, the map, other dates and other places,
-saved places, and the golden-hour reminder. Without it, the app shows its plans
-after the short introduction.
+Without **Sun Path Planning** you can look around the app and see where the sun
+is for you right now — its bearing, its height above the horizon, and the
+length of a shadow.
 
-Three ways to pay:
+Using the app's tools needs Sun Path Planning: the timeline through the day,
+other dates and other places, the sky view, dropping a pin on the map, saved
+places, and the golden-hour reminder. The app shows its plans after the short
+introduction, and again whenever you try to use one of those tools.
 
-- a **yearly subscription**, which renews until you cancel;
-- a **monthly subscription**, which renews until you cancel;
-- a **one-time purchase**, which never renews and never needs cancelling.
+Two ways to pay:
 
-All three unlock exactly the same features. The difference is only how you pay.
+- a **one-time purchase**, which never renews and never needs cancelling;
+- a **monthly subscription**, which renews until you cancel.
+
+Both unlock exactly the same features. The difference is only how you pay.
 
 ---
 
@@ -74,7 +76,7 @@ handle refunds. I never see your payment details.
 
 ### Free trial
 
-The yearly subscription may be offered with a **free trial** of one week, where
+The monthly subscription may be offered with a **free trial** of one week, where
 your store offers it. Where it is, the app shows the trial's length and the date
 the first charge falls due before you buy, and the exact terms are also shown on
 your store's own confirmation sheet.

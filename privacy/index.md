@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — Sun Path & Shadow
 
-**Last updated: 23 September 2026**
+**Last updated: 24 September 2026**
 
 ## The short version
 
@@ -127,7 +127,7 @@ To know whether a purchase is valid — and to restore it if you change phones �
 the app uses **RevenueCat**, a subscription infrastructure provider.
 
 **This check runs at every launch, not only when you buy.** The app has to know
-whether to unlock the app before it renders, and whether a free trial
+whether to unlock its tools before it renders, and whether a free trial
 is still available to you, and only RevenueCat can answer that. So a person who
 installs the app and never spends a penny still causes these requests.
 
